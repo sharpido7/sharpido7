@@ -1,7 +1,7 @@
 ### Hi there,I'm Stephen Shapa👋
 
 # 💫 About Me:
-<br>🔭 I’ve previously worked on a mobile App called Public Bus Transport App.<br><br>🌱 BSc in Computer Science graduate<br><br>💼 I’m currently working on Python and Flutter (Mobile and Web development)<br><br>🏆 2023 Goals: To learn as much as possible and see how I can contribute to the Society.<br><br>🔑 Favorite quote: "When the going gets tough, the tough get going."<br><br>⚡ Fun fact: I love European Football and good Music
+<br>🔭 I’ve previously worked on a mobile App called Public Bus Transport App.<br><br>🌱 BSc in Computer Science graduate<br><br>💼 I’m currently working on Python and Flutter (Mobile and Web development)<br><br>🏆 2023 Goals: To learn as much as possible and see how I can contribute to the Society.<br><br>🔑 Favourite quote: "When the going gets tough, the tough get going."<br><br>⚡ Fun fact: I love European Football and good Music
 
 
 ## 🌐 Socials:
